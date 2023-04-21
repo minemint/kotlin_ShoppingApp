@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">kotlin_ShoppingApp</string>
+
+    <string name="btn_add">Button Add</string>
+    <string name="btn_delete">Button Delete!</string>
+    <string name="btn_update">Button Update!</string>
+    <string name="btn_select">Button Select!</string>
+    <string name="btn_search">Button Search!</string>
+    <string name="btn_clear">Button Clear!</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="product_image">Product Image</string>
+    <Image name="product">Product Image</Image>
+
+    <string name="product_id">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_supplier">Product Supplier</string>
+    <string name="product_supplier_phone">Product Supplier Phone</string>
+    <string name="product_supplier_email">Product Supplier Email</string>
+    <string name="product_supplier_address">Product Supplier Address</string>
+    <string name="product_supplier_website">Product Supplier Website</string>
+    <string name="product_supplier_image">Product Supplier Image</string>
+
 </resources>
